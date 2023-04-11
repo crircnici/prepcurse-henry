@@ -1,2 +1,2 @@
-# prepcurse henry
-este es un repositorio de modulo 2 del prepcurse henry
+carlos
+este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi cpmputadora
